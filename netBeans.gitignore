@@ -7,3 +7,6 @@ dist/
 nbdist/
 .nb-gradle/
 .DS_Store
+.mp4
+.pak
+Swing_Inspire.jar
