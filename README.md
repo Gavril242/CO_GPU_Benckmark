@@ -10,7 +10,7 @@ Once closed run it again, this time you can use it as normal;
 RT GPU BENCHMARK - Project Release`
 https://drive.google.com/file/d/1iejv-YNtmHSGyXkLmU-7wtABfat8Ci4C/view
 
-![image](https://github.com/Gavril242/RuntimeTerror_GPU_Benchmark/assets/93073444/73402e7d-c88d-4594-a500-8e47ac5feb78)
+![image](https://drive.google.com/uc?export=view&id=1PgiCmZvqkoLVpBAcHkB16q94SaWyj8Hg&raw=true)
 
 
 Disclamer: This is a project and not a full fledget benckmark for comercial use.
