@@ -20,3 +20,5 @@ By following these steps, you can download the Jar file, install it, and use it 
 
 
 Disclamer: This is a project and not a fully fledged benckmark for comercial use.
+
+if you are revisiting and you cant acces the gdrive link please contact me via this email: lucian.prindii@student.upt.ro
