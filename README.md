@@ -4,11 +4,17 @@
 This project has been made by the following people:
 
 Prindii Lucian-Gabriel
+
 Nistora Octavian-Tiberiu
+
 Neag Malina 
+
 Pavel Cristina
+
 Zvînca Alex 
+
 Pârvulescu Anisia 
+
 
 ## Usage: 
 
